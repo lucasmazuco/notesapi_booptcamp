@@ -10,6 +10,6 @@ const nota = require("./rotas/nota");
 app.use("/usuario", usuario);
 app.use("/nota", nota);
 
-app.listen(porta, function () {
+app.listen(porta, () => {
     console.log(`Aplicação rodando na porta ${porta} `);
 })
