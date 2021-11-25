@@ -13,5 +13,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": "https://github.com/lucasmazuco/notesapi_booptcamp.git",
+  "author": "Lucas <lucasmazucosilva@gmail.com>"
 }
